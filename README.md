@@ -1,6 +1,6 @@
 # [Python Functions and Libraries](#cheatsheet-useful-python-functions--libraries)
 
-## **[Arrays & Hashing](#arrays--hashing)**  
+## **[Arrays and Hashing](#arrays--hashing)**  
 - **Contains Duplicate (Easy)**  
 - **Two Sum (Easy)**  
 - **Group Anagrams (Medium)**  
